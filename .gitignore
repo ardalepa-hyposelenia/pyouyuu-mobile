@@ -1,0 +1,33 @@
+# Secrets & Environment (AGENTS.md Hard Rule: No secrets in git)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*service-account*.json
+google-services.json
+local.properties
+
+# Local Workspace Junctions (linked from workspace/ submodule via scripts/sync-workspace.ps1)
+/docs
+/contracts
+/tasks
+/.claude/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Android / Gradle Build Artifacts
+.gradle/
+build/
+*/build/
+captures/
+.cxx/
+.externalNativeBuild/
