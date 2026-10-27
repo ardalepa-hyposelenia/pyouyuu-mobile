@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- D-03: Bahasa Indonesia UI strings -->
+<resources>
+    <string name="app_name">Pyouyuu</string>
+    <string name="kiosk_pause_to_scan">Jeda untuk Scan</string>
+    <string name="kiosk_resume_live">Lanjutkan Live</string>
+    <string name="kiosk_paused_banner">Dijeda untuk Scan — %1$d foto baru diproses di latar belakang</string>
+    <string name="advisory_legacy_sony_amber">Mode PC Remote Sony terdeteksi: Penyimpanan kartu SD internal dinonaktifkan oleh firmware kamera. File asli otomatis dicadangkan ke /Pictures/Pyouyuu_Originals/. Atur kualitas kamera ke JPEG Saja.</string>
+    <string name="advisory_modern_camera_green">Tips: Atur tujuan simpan kamera ke PC + Kamera dan ukuran transfer ke JPEG Standar/2M.</string>
+    <string name="warning_raw_skipped">File RAW dilewati. Hanya foto JPEG (0x3801) yang diproses.</string>
+    <string name="auth_device_conflict_title">Pindahkan Perangkat Aktif?</string>
+    <string name="auth_device_conflict_message">Akun Anda sedang aktif di ponsel lain. Pindahkan sesi aktif ke perangkat ini?</string>
+</resources>

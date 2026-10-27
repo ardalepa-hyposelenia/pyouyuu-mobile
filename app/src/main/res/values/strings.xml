@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- D-03: English UI strings -->
+<resources>
+    <string name="app_name">Pyouyuu</string>
+    <string name="kiosk_pause_to_scan">Pause to Scan</string>
+    <string name="kiosk_resume_live">Resume Live</string>
+    <string name="kiosk_paused_banner">Paused for Scan — %1$d new photos processed in background</string>
+    <string name="advisory_legacy_sony_amber">Sony PC Remote detected: Internal SD card write is disabled by camera firmware. Untouched originals are automatically backed up to /Pictures/Pyouyuu_Originals/. Set camera quality to JPEG Only.</string>
+    <string name="advisory_modern_camera_green">Tip: Set camera save destination to PC + Camera and transfer size to JPEG Standard/2M.</string>
+    <string name="warning_raw_skipped">RAW file skipped. Only JPEG (0x3801) photos are processed.</string>
+    <string name="auth_device_conflict_title">Switch Active Device?</string>
+    <string name="auth_device_conflict_message">Your account is currently active on another phone. Switch active session to this device?</string>
+</resources>
